@@ -1,1 +1,2 @@
-print("hello_github")
+a=input()
+print("Hello,",a)
