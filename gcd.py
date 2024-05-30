@@ -1,6 +1,8 @@
 #GCD
 a,b=map(int,input().split())
-if a>b:
+if a==0 or b==0:
+    print(1)
+elif a>b:
     small=b
     big=a
 elif a<b:
