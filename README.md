@@ -1,1 +1,1 @@
-This is al of my Python_projects
+This is all of my Python_projects
