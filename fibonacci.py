@@ -1,3 +1,5 @@
+#fibonacci
+n = int(input())
 def fibonacci_sequence(n):
     if n == 1:
         return [0]
