@@ -6,7 +6,7 @@ for i in range(0,len(n)):
         count+=1
 if int(n)==4 or int(n)==7:
     print("YES")
-elif count==len(n):
+elif count==4 or count==7:
     print("YES")
 else:
     print("NO")
